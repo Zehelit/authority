@@ -1,0 +1,4 @@
+interface:
+  display_name: "authority"
+  short_description: "Codex ve PowerShell yönetici erişimini doğrula"
+  default_prompt: "$authority ile Codex ve PowerShell yönetici yetkisini ve gerçek işlem erişimini kontrol et."
